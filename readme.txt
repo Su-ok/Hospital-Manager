@@ -1,11 +1,5 @@
 TOPIC: 	HOSPITAL MANAGEMENT SYSTEM
 
-GROUP MEMBERS:
-	20BAI10015 -> Ashish Vats
-	20BAI10268 -> Palak Garg
-	20BAI10372 -> Deepak Kumar
-	20BAI10373 -> Suchir Okram
-
 
 The following requirements must be present/installed in order to run our python project:
 1. Tkinter module: It is used to design GUI that we have prepared in our project. 
