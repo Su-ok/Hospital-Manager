@@ -1,4 +1,4 @@
-TOPIC: 	HOSPITAL MANAGEMENT SYSTEM
+TOPIC: 	HOSPITAL MANAGER
 
 
 The following requirements must be present/installed in order to run our python project:
